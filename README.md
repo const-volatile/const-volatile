@@ -20,7 +20,6 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Ask me](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
 🚗 Automotive Software Engineer 🚙 | 📟 Embedded Systems Developer 🌐 | 🦀 Rust Enthusiast 🛠️ | 🔒 Passionate about Cybersecurity 👨🏻‍💻 | 🎮 Game Programming 🕹️
 
